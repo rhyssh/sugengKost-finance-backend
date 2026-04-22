@@ -342,10 +342,6 @@ Fitur-fitur yang sedang atau akan dikembangkan untuk meningkatkan fungsionalitas
    go fmt ./...
    ```
 
-## 📄 License
-
-Silakan sesuaikan dengan lisensi project Anda
-
 ## 👤 Author
 
 **rhyssh**
